@@ -11,7 +11,7 @@
 
 ## Installation
 
-To install VK port-a-log, download the APK file from the link below and follow the standard procedure to install an APK on your Android device.
+To install VK port-a-log, download the APK file and follow the standard procedure to install an APK on your Android device.
 
 ## Important Note
 
